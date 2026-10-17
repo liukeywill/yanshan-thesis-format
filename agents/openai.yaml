@@ -1,4 +1,4 @@
 interface:
   display_name: "燕山学院专科论文格式调整"
-  short_description: "依据学校模板调整专科论文封面、摘要、正文、目录与参考文献格式"
+  short_description: "仅限山东财经大学燕山学院专科毕业论文的封面、摘要、正文等格式修改"
   default_prompt: "使用 $yanshan-thesis-format，按燕山学院专科毕业论文要求修改这篇论文的格式，保留正文内容。"
